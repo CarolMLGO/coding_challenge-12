@@ -1,0 +1,29 @@
+{
+  "name": "coding_challenge-12",
+  "version": "1.0.0",
+  "description": "\"We've detected some temporal anomalies,\" one of Santa's Elves at the Temporal Anomaly Research and Detection Instrument Station tells you. She sounded pretty worried when she called you down here. \"At 500-year intervals into the past, someone has been changing Santa's history!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolMLGO/coding_challenge-12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "ajv": "^6.5.4",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "md5": "^2.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/CarolMLGO/coding_challenge-12/issues"
+  },
+  "homepage": "https://github.com/CarolMLGO/coding_challenge-12#readme"
+}
