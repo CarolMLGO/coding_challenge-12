@@ -1,4 +1,4 @@
---- Day 1: Chronal Calibration ---
+# Day 1: Chronal Calibration
 
 View all solutions: https://zerotomastery.io/events/advent-of-code.html
 
